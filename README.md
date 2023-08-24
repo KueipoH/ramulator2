@@ -336,6 +336,7 @@ cd ..
 3. Build all simulators
 ```bash
 cd ..
+chmod +x build_simulators.sh
 ./build_simulators.sh
 ```
 4. Generate traces
